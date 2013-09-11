@@ -1,0 +1,6 @@
+ul, ol {list-style-type: none; margin: 0px; padding: 0px;}
+ul li, ol li{padding-left: 20px}
+.folder {  cursor: pointer; background: url(/img/folder-open.gif) left top no-repeat;}
+.collapsed {  cursor: pointer; background: url(/img/folder-close.gif) left top no-repeat;}
+.file {  cursor: pointer; background: url(/img/file.gif) left top no-repeat;}
+/*.chosen {  cursor: pointer; background: url(/img/folder-chosen.gif) left top no-repeat;}*/
