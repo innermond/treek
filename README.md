@@ -1,4 +1,4 @@
 treek
 =====
 
-make an unordered html list behave like a tree
+trik an unordered html list to behave like a tree
